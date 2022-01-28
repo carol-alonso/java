@@ -17,10 +17,10 @@ Na terceira opção o valor da constante deve ser lido e o resultado
 da adição da constante deve ser armazenado na própria matriz.
 */
 
-		int [][]matriz1 = new int[2][2];
-		int [][]matriz2 = new int[2][2];
-		int [][]mSoma = new int[2][2];
-		int [][]mSub = new int[2][2];
+		float [][]matriz1 = new float[2][2];
+		float [][]matriz2 = new float[2][2];
+		float [][]mSoma = new float[2][2];
+		float [][]mSub = new float[2][2];
 		int opc = 0;
 		
 		Scanner leia = new Scanner(System.in);
